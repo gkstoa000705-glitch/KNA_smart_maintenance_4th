@@ -10,7 +10,27 @@
 # 정의만으로는 실행 안됨 -> 호출해야 실행
 
 #실습 1
-def start():
-    print("점검을 시작합니다")
-start()
-start()
+#def start():
+#    print("점검을 시작합니다")
+#start()
+#start()
+
+#실습2
+print("점검 시작")
+print("점검 상태")
+print("점검 끝")
+
+print("점검 시작")
+print("점검 상태")
+print("점검 끝")
+
+def 설비안내():
+    print("점검 시작")
+    print("점검 상태")
+    print("점검 끝")
+print("1번 설비")
+설비안내()
+print("2번 설비")
+설비안내()
+print("3번 설비")
+설비안내()
