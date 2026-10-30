@@ -64,10 +64,10 @@
 #    print("---")
 
 # 실습 4
-N = int(input("측정 횟수:"))
-over_count = 0
-for i in range(N):
-    value = int(input("측정값:"))
-    if value > 80:
-        over_count +=1
-print("초과 개수:",over_count)
+#N = int(input("측정 횟수:"))
+#over_count = 0
+#for i in range(N):
+#    value = int(input("측정값:"))
+#    if value > 80:
+#        over_count +=1
+#print("초과 개수:",over_count)

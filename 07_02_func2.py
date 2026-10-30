@@ -58,11 +58,11 @@
 #print(none)
 
 #실습 5
-def sensor(values):
-    low = min(values)
-    high = max(values)
-    avg = sum(values) / len(values)
+#def sensor(values):
+#    low = min(values)
+#    high = max(values)
+#    avg = sum(values) / len(values)
 
-    return low, high, avg
-a, b, c = sensor([78, 85, 92])
-print(a, b, c)
+#    return low, high, avg
+#a, b, c = sensor([78, 85, 92])
+#print(a, b, c)
